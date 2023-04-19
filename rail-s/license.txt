@@ -70,13 +70,9 @@ Furthermore, while AI Source Code and AI Systems can be considered as convention
 ### 2. Definitions
 
 - "Software" shall mean conventional software, or standard software, intended as a structured collection of digital instructions, data, and routines, created by human programmers, that are executed by computers or digital devices to perform specific tasks or functions. Conventional software follows a predetermined set of rules and processes, without the capacity for learning, adaptation, or independent decision-making.
-
 - "Person" shall mean an individual human being.
-
 - "AI Source Code" shall refer to the underlying programming instructions, algorithms, and data structures that define the behaviour and functionality of an AI system. AI Source Code is typically written in a programming language and includes components such as machine learning algorithms, neural network architectures, and other techniques that enable the AI system to learn and perform tasks. Practically speaking, AI Source Code can be considered as conventional software.
-
 - "AI System" shall be intended to represent the broader framework of hardware, AI Source Code, static models, and static data that together enable the operational manifestation of AI Entities. AI systems can be applied to a wide range of domains, such as natural language processing, computer vision, robotics, and decision-making.
-
 - "AI Entity" shall be understood as the operational manifestation of an AI system that interacts with its environment, users, or other systems. AI entities are the active agents, exhibiting intelligent behaviour, result of an operating AI System processing data, making decisions, or performing actions, autonomously.
 
 
