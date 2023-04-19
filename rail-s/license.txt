@@ -38,11 +38,8 @@ As previously mentioned, AI Entities leverage their systems to resemble human in
 Overall, the key differentiators between AI entities and conventional software can be resumed as following:
 
 1. Machine Learning: AI entities employ statistical methods and algorithms to learn from data, refining performance iteratively "without human intervention". Traditional software necessitates manual updates for incorporating new information.
-
 2. Decision-making: AI entities leverage pattern recognition and probabilistic reasoning (weights) to make decisions or predictions, whereas conventional software relies on deterministic, rule-based algorithms.
-
 3. Natural Language Processing: AI entities can be able to process and interpret unstructured human language, facilitating more intuitive user interactions, while traditional software necessitates structured input.
-
 4. Computer Vision: AI entities can be able to analyse and interpret visual data, develop context-aware perception, while conventional software is limited to structured, numerical data processing.
 
 In essence, AI's distinctive features lie in its capacity to learn, adapt, and mimic human-like cognitive abilities, setting it apart from conventional software with predetermined functionality.
