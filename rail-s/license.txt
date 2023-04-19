@@ -10,7 +10,6 @@ ALLOW: <name of AI tool(s)>
 ALLOW ONLY PARTIAL SOURCE: <yes>
 ALLOW VERSION(s): <version(s) allowed to be used by the AI tool(s)>
 ALLOW ONLY RESEARCH: <yes>
-ALLOW ONLY EDUCATION: <yes>
 
 
 ## License
@@ -130,9 +129,5 @@ This term specifies the allowed version(s) of the Software that the AI technolog
 4. ALLOW ONLY RESEARCH: <yes>
 Optional, only valid in combination with ALLOW.
 When set to "yes," this term restricts the use of the Software by allowed AI technologies to non-commercial research and development (R&D) purposes only.
-
-5. ALLOW ONLY EDUCATION: <yes>
-Optional, only valid in combination with ALLOW.
-When set to "yes," this term restricts the use of the Software by allowed AI technologies to non-commercial educational purposes only.
 
 For questions or concerns about the Restricted Artificial Intelligence License for Sotware, please contact the copyright holder(s) listed at the beginning of this file or refer to the guidelines provided in the original license.
