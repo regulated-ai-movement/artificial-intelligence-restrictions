@@ -16,7 +16,7 @@ ALLOW ONLY RESEARCH: <yes>
 
 ### 1. Rationale
 
-To correctly interpret the content of this license, it is important to clarify the meaning of some  concepts, or at least how they are used as foundation of this corpus.
+To correctly interpret the content of this license, it is important to clarify the meaning of some concepts, or at least how they are used as foundation of this corpus.
 As a start, without a dedicated section, whenever the acronym “AI” will be found, it shall be intended as “Artificial Intelligence”, by common knowledge.
 
 
@@ -47,8 +47,7 @@ In essence, AI's distinctive features lie in its capacity to learn, adapt, and m
 
 1.3. AI Entities, humans and accountability
 
-Even in early stages, AI Entities might become useful technological allies, as well as 
-alternative competitors of humans, around a more or less wide variety of tasks, from narrowed activities (i.g. software development) to general purpose ones. 
+Even in early stages, AI Entities might become useful technological allies, as well as alternative competitors of humans, around a more or less wide variety of tasks, from narrowed activities (i.g. software development) to general purpose ones. 
 
 AI Entities as "software authors (developers)", with their autonomous decision-making human-like capability, can bring by nature "non-deterministic" and "unpredictable" results, raising issues about "assigning accountability".
 
@@ -91,7 +90,7 @@ The purpose of this license is to ensure an empowering freedom, a "rail", to dev
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above Rationale, Definitions, Intentions and this Terms and Conditions notices (including the next Usage and ) shall be included in all copies or substantial portions of the Software.
+The above Rationale, Definitions, Intentions and this Terms and Conditions notices (including the next Usage section) shall be included in all copies or substantial portions of the Software.
 
 By applying the Restricted Artificial Intelligence for Software (RAIL-S), the use, copy, modify, merge, publish, distribute, sublicense of the software under that license for AI Entities is prohibited, unless explicitly granted by adding extra information to the license metadata, as explained in the relative section of this license (4.1).
 
@@ -109,21 +108,21 @@ The "Restricted Artificial Intelligence License for Software" can be applied as 
 
 To define extra information, the following fields are intended valid to be used:
 
-1. ALLOW: <name of AI tool(s)>
-Optional, accepts a descriptive list of allowed AI tools. For example "Example AI Assistant".
-This shall enable the use of the software by the allowed AI technologies. 
+1. ALLOW: <name or list of names of AI Entities>
+Optional, accepts a descriptive list of allowed AI Entities. For example "Example AI Assistant".
+This shall enable the use of the software by the allowed AI Entities. 
 In absence of extra allowed information, the software will be fully usable without restrictions of version, source or field.
 
 2. ALLOW ONLY PARTIAL SOURCE: <yes>
 Optional, only valid in combination with ALLOW.
-When set to "yes," this term limits the use of the Software's source code by allowed AI technologies to partial access. This means that AI Entities can use predefined code snippets for reference and must redirect users to the official author or documentation for the complete source code. The default value is "yes."
+When set to "yes," this term limits the use of the Software's source code by allowed AI Entities to partial access. This means that AI Entities can use predefined code snippets for reference and must redirect users to the official author or documentation for the complete source code. The default value is "yes."
 
 3. ALLOW VERSION(s): <allowed_version(s)>
 Optional, only valid in combination with ALLOW.
-This term specifies the allowed version(s) of the Software that the AI technologies can use. It accepts semantic versioning definitions (https://semver.org/).
+This term specifies the allowed version(s) of the Software that the AI Entities can use. It accepts semantic versioning definitions (https://semver.org/).
 
 4. ALLOW ONLY RESEARCH: <yes>
 Optional, only valid in combination with ALLOW.
-When set to "yes," this term restricts the use of the Software by allowed AI technologies to non-commercial research and development (R&D) purposes only.
+When set to "yes," this term restricts the use of the Software by allowed AI Entities to non-commercial research and development (R&D) purposes only.
 
 For questions or concerns about the Restricted Artificial Intelligence License for Software, please contact the copyright holder(s) listed at the beginning of this file or refer to the guidelines provided in the original license.
