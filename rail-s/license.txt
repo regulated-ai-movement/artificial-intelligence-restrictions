@@ -2,22 +2,23 @@ Restricted Artificial Intelligence License for Software (RAIL-S)
 Author: Emanuele De Boni
 Year: 2023
 
+=======================================
 
 ## License metadata (see section 4.1)
 
 Copyright (c) <year> <copyright holders>
-ALLOW: <name of AI tool(s)>
+ALLOW: <name or list of names of AI Entities>
 ALLOW ONLY PARTIAL SOURCE: <yes>
-ALLOW VERSION(s): <version(s) allowed to be used by the AI tool(s)>
+ALLOW VERSION(s): <version(s) allowed to be used by the AI Entities>
 ALLOW ONLY RESEARCH: <yes>
 
+=======================================
 
 ## License
 
 ### 1. Rationale
 
 To correctly interpret the content of this license, it is important to clarify the meaning of some concepts, or at least how they are used as foundation of this corpus.
-As a start, without a dedicated section, whenever the acronym “AI” will be found, it shall be intended as “Artificial Intelligence”, by common knowledge.
 
 
 1.1. AI Source Code, AI Systems and AI Entities
@@ -67,6 +68,7 @@ Furthermore, while AI Source Code and AI Systems can be considered as convention
 
 ### 2. Definitions
 
+- "AI" shall mean Artificial Intelligence by common knowledge, or the ability of a machine to imitate intelligent human behavior.
 - "Software" shall mean conventional software, or standard software, intended as a structured collection of digital instructions, data, and routines, created by human programmers, that are executed by computers or digital devices to perform specific tasks or functions. Conventional software follows a predetermined set of rules and processes, without the capacity for learning, adaptation, or independent decision-making.
 - "Person" or "Persons" shall mean an individual or a group of individual human beings.
 - "AI Source Code" shall refer to the underlying programming instructions, algorithms, and data structures that define the behavior and functionality of an AI System. AI Source Code is typically written in a programming language and includes components such as machine learning algorithms, neural network architectures, and other techniques that enable the AI System to learn and perform tasks. Practically speaking, AI Source Code can be considered as conventional software.
