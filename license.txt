@@ -8,9 +8,10 @@ Year: 2023
 
 Copyright (c) 2023 Emanuele De Boni
 ALLOW: "GitHub Copilot"
-ALLOW ONLY PARTIAL SOURCE: "yes"
+ALLOW ONLY PARTIAL: "yes"
 ALLOW VERSION(s): "1.0.0"
 ALLOW ONLY RESEARCH: "yes"
+ALLOW CREDITS: "yes"
 
 =======================================
 
