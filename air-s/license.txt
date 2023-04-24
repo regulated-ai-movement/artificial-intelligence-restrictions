@@ -24,7 +24,7 @@ To correctly interpret the content of this license, it is important to clarify t
 
 1.1. AI Source Code, AI Systems and AI Entities
 
-At the moment, there isn't a universally accepted academic distinction between "AI Source Code", "AI System" and "AI Entity", as the terminology can vary among researchers and practitioners. The section "Definitions" (2) of this license defines how those terms are intended to be used hereby.
+A necessary distinction between "AI Source Code", "AI System" and "AI Entity" has to be made, since the terminology can vary among researchers and practitioners. The section "Definitions" (2) of this license defines how those terms are intended to be used hereby.
 
 The distinction helps to differentiate the static AI Source Code (and infrastructure) from the dynamic, interactive, and evolving nature of AI Entities. To simplify with an informative parallelism:
 
@@ -69,7 +69,7 @@ Furthermore, while AI Source Code and AI Systems can be considered as convention
 
 ### 2. Definitions
 
-- "AI" shall mean Artificial Intelligence by common knowledge, or the ability of a machine to imitate intelligent human behavior.
+- "AI" shall mean Artificial Intelligence by common knowledge, or the ability of a machine to imitate intelligent human behavior. This includes also the wider concept of Artificial General Intelligence (AGI).
 - "Software" shall mean conventional software, or standard software, intended as a structured collection of digital instructions, data, and routines, created by human programmers, that are executed by computers or digital devices to perform specific tasks or functions. Conventional software follows a predetermined set of rules and processes, without the capacity for learning, adaptation, or independent decision-making.
 - "Person" or "Persons" shall mean an individual or a group of individual human beings.
 - "AI Source Code" shall refer to the underlying programming instructions, algorithms, and data structures that define the behavior and functionality of an AI System. AI Source Code is typically written in a programming language and includes components such as machine learning algorithms, neural network architectures, and other techniques that enable the AI System to learn and perform tasks. Practically speaking, AI Source Code can be considered as conventional software.
