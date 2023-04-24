@@ -1,17 +1,17 @@
-Restricted Artificial Intelligence License for Software (RAIL-S)
-Author: Emanuele De Boni
+Artificial Intelligence Restrictions for Software (AIR-S)
+Author: Emanuele De Boni, Restricted AI Initiative
 Year: 2023
 
 =======================================
 
 ## License metadata (see section 4.1)
 
-Copyright (c) 2023 Emanuele De Boni
-ALLOW: "GitHub Copilot"
-ALLOW ONLY PARTIAL: "yes"
-ALLOW VERSION(s): "1.0.0"
-ALLOW ONLY RESEARCH: "yes"
-ALLOW CREDITS: "yes"
+Copyright (c) <year> <copyright holders>
+ALLOW: <name or list of names of AI Entities>
+ALLOW ONLY PARTIAL: <yes>
+ALLOW VERSION(s): <version(s) allowed to be used by the AI Entities>
+ALLOW ONLY RESEARCH: <yes>
+ALLOW WITH CREDITS: <yes>
 
 =======================================
 
@@ -26,7 +26,7 @@ To correctly interpret the content of this license, it is important to clarify t
 
 At the moment, there isn't a universally accepted academic distinction between "AI Source Code", "AI System" and "AI Entity", as the terminology can vary among researchers and practitioners. The section "Definitions" (2) of this license defines how those terms are intended to be used hereby.
 
-The distinction helps to differentiate the static AI Source Code (and infrastructure) from the dynamic, interactive, and evolving nature of AI Entities. To simplify with an informative  parallelism:
+The distinction helps to differentiate the static AI Source Code (and infrastructure) from the dynamic, interactive, and evolving nature of AI Entities. To simplify with an informative parallelism:
 
 - the AI Source Code is the AI’s DNA;
 - an AI System is the AI’s body, mind and knowledge;
@@ -60,7 +60,7 @@ On the contrary, AI Entities play without relevant boundaries, and nonetheless, 
 
 1.4. The Software Communities
 
-It’s useful to highlight that all existing licenses were born by a “Social Contract” with their relative communities, where humans, members of those communities (or "societies"), were the very end contractors. Some references to this argument can be found directly in most of the licenses' content, around the use of terms like “persons” or “groups of persons”.
+It’s useful to highlight that all existing licenses are born by a “Social Contract” with their relative communities, where humans, members of those communities (or "societies"), are the very end contractors. Some references to this argument can be found directly in most of the licenses' content, around the use of terms like “persons” or “groups of persons”.
 
 Even considering a future evolution, AI Entities shall not be confused as the actual human members of those communities. They might be applied to assist in software development, but they also could contribute to disrupt them negatively, for their before mentioned mix of characteristics (intelligence, autonomy and unpredictability) together their lack (or hard to define) of legal accountability (see 1.5).
 
@@ -95,7 +95,7 @@ Permission is granted, without charge, to any person acquiring a copy of this so
 
 All copies or significant portions of the Software must include the Rationale, Definitions, Intentions, and Terms and Conditions sections (including the Usage section).
 
-The application of the Restricted Artificial Intelligence for Software (RAIL-S) license prohibits the use, copying, modification, merging, publication, distribution, sublicensing of the Software by AI Entities, except when expressly permitted through the inclusion of additional information in the license metadata, as detailed in Section 4.1 of this license.
+The application of the Artificial Intelligence Restrictions for Software (AIR-S) license prohibits the use, copying, modification, merging, publication, distribution, sublicensing of the Software by AI Entities, except when expressly permitted through the inclusion of additional information in the license metadata, as detailed in Section 4.1 of this license.
 
 When permission is granted for the use of the Software by specific AI Entities, such permission applies solely to the expressly designated AI Entities and does not extend to any other AI Entity, even if they are similar or related to the specified AI Entities.
 
@@ -104,9 +104,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ### 4. Usage
 
-The "Restricted Artificial Intelligence License for Software" can be applied as following:
+The "Artificial Intelligence Restrictions License for Software" can be applied as following:
 
-- Use “RAIL-S” (or the full name) in in the relative “license” field of a software metadata file (e.g. `package.json`) or add a copy of this file in the software package.
+- Use “AIR-S” (or the full name) in in the relative “license” field of a software metadata file (e.g. `package.json`) or add a copy of this file in the software package.
 - Add extra information in the software metadata (e.g. `package.json`) or in the license metadata section on top of this file.
 
 4.1. License metadata
@@ -134,4 +134,4 @@ When set to "yes" this term restricts the use of the Software by allowed AI Enti
 Optional, only valid in combination with ALLOW.
 When set to "yes" this term permits the use of the Software by allowed AI Entities only if they will provide credits to the author.
 
-For questions or concerns about the Restricted Artificial Intelligence License for Software, please contact the copyright holder(s) listed at the beginning of this file or refer to the guidelines provided in the original license.
+For questions or concerns about the Artificial Intelligence Restrictions License for Software, please contact the copyright holder(s) listed at the beginning of this file or refer to the guidelines provided in the original license.
