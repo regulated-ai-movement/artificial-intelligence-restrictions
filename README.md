@@ -1,6 +1,6 @@
 # Restricted Artificial Intelligence Licenses
 
-Official repository of the Restricted Artificial Intelligence Licenses promoted by the [Restricted AI Initiative](https://rainitiative.org).
+Official repository of the Restricted Artificial Intelligence Licenses promoted by the [Regulated AI Movement](https://raimovement.org).
 
 ## Artificial Intelligence Restrictions for Software (AIR-S)
 
