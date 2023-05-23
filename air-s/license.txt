@@ -1,5 +1,5 @@
 Artificial Intelligence Restrictions for Software (AIR-S)
-Author: Emanuele De Boni, Restricted AI Initiative
+Author: Emanuele De Boni, Regulated AI Movement
 Year: 2023
 
 =======================================
