@@ -10,3 +10,10 @@ The Artificial Intelligence Restrictions for Software (AIR-S) is a license that 
 
 - Read the full license text [here](air-s/license.txt).
 - Read more about the license in the official documentation [here](https://raimovement.org/licenses/air-s).
+
+## Artificial Intelligence Restrictions for Creatives (AIR-C)
+
+The Artificial Intelligence Restrictions for Creatives (AIR-C) is a license that restricts the use of any creative content by artificial intelligence, to protect human creativity. The license is inspired by [Creative Commons CC BY](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+- Read the full license text [here](air-c/license.txt).
+- Read more about the license in the official documentation [here](https://raimovement.org/licenses/air-c).
