@@ -1,10 +1,10 @@
 Artificial Intelligence Restrictions for Software (AIR-S)
-Author: Emanuele De Boni, Regulated AI Movement
+Author(s): Emanuele De Boni, Regulated AI Movement (https://raimovement.org)
 Year: 2023
 
 =======================================
 
-## License metadata (see section 4.1)
+## License metadata (see "Usage")
 
 Copyright (c) <year> <copyright holders>
 ALLOW: <name or list of names of AI Entities>
@@ -19,14 +19,14 @@ ALLOW WITH CREDITS: <yes>
 
 ### 1. Rationale
 
-To correctly interpret the content of this license, it is important to clarify the meaning of some concepts, or at least how they are used as foundation of this corpus.
+To correctly interpret the content of this license, it is important to clarify some meanings and concepts, or at least how they are used as foundation of this corpus.
 
 
 1.1. AI Source Code, AI Systems and AI Entities
 
-A necessary distinction between "AI Source Code", "AI System" and "AI Entity" has to be made, since the terminology can vary among researchers and practitioners. The section "Definitions" (2) of this license defines how those terms are intended to be used hereby.
+A necessary distinction between "AI Source Code", "AI System" and "AI Entity" has to be made, since the terminology can vary among researchers and practitioners. The section "Definitions" (2) of this license defines how those terms are intended hereby.
 
-The distinction helps to differentiate the static AI Source Code (and infrastructure) from the dynamic, interactive, and evolving nature of AI Entities. To simplify with an informative parallelism:
+The distinction helps to split the static AI Source Code (and infrastructure) from the dynamic, interactive, and evolving nature of AI Entities. To simplify with an informative parallelism:
 
 - the AI Source Code is the AI’s DNA;
 - an AI System is the AI’s body, mind and knowledge;
@@ -39,10 +39,10 @@ As previously mentioned, AI Entities leverage their systems to resemble human in
 
 Overall, the key differentiators between AI Entities and conventional software can be resumed as following:
 
-1. Machine Learning: AI Entities employ statistical methods and algorithms to learn from data, refining performance iteratively "without human intervention". Traditional software necessitates manual updates for incorporating new information.
-2. Decision-making: AI Entities leverage pattern recognition and probabilistic reasoning (weights) to make decisions or predictions, whereas conventional software relies on deterministic, rule-based algorithms.
-3. Natural Language Processing: AI Entities can be able to process and interpret unstructured human language, facilitating more intuitive user interactions, while traditional software necessitates structured input.
-4. Computer Vision: AI Entities can be able to analyze and interpret visual data, develop context-aware perception, while conventional software is limited to structured, numerical data processing.
+- Machine Learning: AI Entities employ statistical methods and algorithms to learn from data, refining performance iteratively "without human intervention". Traditional software necessitates manual updates for incorporating new information.
+- Decision-making: AI Entities leverage pattern recognition and probabilistic reasoning (weights) to make decisions or predictions, whereas conventional software relies on deterministic, rule-based algorithms.
+- Natural Language Processing: AI Entities can be able to process and interpret unstructured human language, facilitating more intuitive user interactions, while traditional software necessitates structured input.
+- Computer Vision: AI Entities can be able to analyze and interpret visual data, develop context-aware perception, while conventional software is limited to structured, numerical data processing.
 
 In essence, AI's distinctive features lie in its capacity to learn, adapt, and mimic human-like cognitive abilities, setting it apart from conventional software with predetermined functionality.
 
@@ -51,7 +51,7 @@ In essence, AI's distinctive features lie in its capacity to learn, adapt, and m
 
 Even in early stages, AI Entities might become useful technological allies, as well as alternative competitors of humans, around a more or less wide variety of tasks, from narrowed activities (i.g. software development) to general purpose ones. 
 
-AI Entities as "software authors (developers)", with their autonomous decision-making human-like capability, can bring by nature "non-deterministic" and "unpredictable" results, raising issues about "assigning accountability".
+AI Entities, functioning as "software developers", have the capability for autonomous decision-making that is reminiscent of human behavior. This can lead to "non-deterministic" and "unpredictable" results, raising issues regarding "accountability".
 
 Among others, the simplest scenario where a software developer distributes a program that an AI Entity unpredictably uses for criminal purposes can be deeply concerning, and while that’s also true for humans, they respond to structured, even if often imperfect, "social contracts" and "legal systems" across the globe.
 
@@ -60,9 +60,9 @@ On the contrary, AI Entities play without relevant boundaries, and nonetheless, 
 
 1.4. The Software Communities
 
-It’s useful to highlight that all existing licenses are born by a “Social Contract” with their relative communities, where humans, members of those communities (or "societies"), are the very end contractors. Some references to this argument can be found directly in most of the licenses' content, around the use of terms like “persons” or “groups of persons”.
+It’s useful to highlight that all existing licenses are born by a “Social Contract” with their relative communities, where humans, members of those groups (or "societies"), are the very end contractors. Some references to this argument can be found directly in most of the licenses' content, around the use of terms like “persons” or “groups of persons” or adjective related to human individuals.
 
-Even considering a future evolution, AI Entities shall not be confused as the actual human members of those communities. They might be applied to assist in software development, but they also could contribute to disrupt them negatively, for their before mentioned mix of characteristics (intelligence, autonomy and unpredictability) together their lack (or hard to define) of legal accountability (see 1.5).
+Even considering a future evolution, AI Entities shall not be confused as the actual human members of those communities. They might be applied to assist in software development, but they also could contribute to disrupt those societies negatively, for their before mentioned mix of characteristics (intelligence, autonomy and unpredictability) together their lack (or hard to define) of legal accountability (see 1.3).
 
 Furthermore, while AI Source Code and AI Systems can be considered as conventional software, AI Entities shall not (see 1.2).
 
@@ -71,10 +71,10 @@ Furthermore, while AI Source Code and AI Systems can be considered as convention
 
 - "AI" shall mean Artificial Intelligence by common knowledge, or the ability of a machine to imitate intelligent human behavior. This includes also the wider concept of Artificial General Intelligence (AGI).
 - "Software" shall mean conventional software, or standard software, intended as a structured collection of digital instructions, data, and routines, created by human programmers, that are executed by computers or digital devices to perform specific tasks or functions. Conventional software follows a predetermined set of rules and processes, without the capacity for learning, adaptation, or independent decision-making.
-- "Person" or "Persons" shall mean an individual or a group of individual human beings.
 - "AI Source Code" shall refer to the underlying programming instructions, algorithms, and data structures that define the behavior and functionality of an AI System. AI Source Code is typically written in a programming language and includes components such as machine learning algorithms, neural network architectures, and other techniques that enable the AI System to learn and perform tasks. Practically speaking, AI Source Code can be considered as conventional software.
 - "AI System" or "AI Systems" shall be intended to represent the broader framework of hardware, AI Source Code, static models, and static data that together enable the operational manifestation of AI Entities. AI Systems can be applied to a wide range of domains, such as natural language processing, computer vision, robotics, and decision-making.
 - "AI Entity" or "AI Entities" shall be understood as the operational manifestation of an AI System that interacts with its environment, users, or other systems. AI Entities are the active agents, exhibiting intelligent behaviour, result of an operating AI System processing data, making decisions, or performing actions, autonomously.
+- "Person" or "Persons" or "You" shall mean an individual or a group of individual human beings exercising the rights granted under this license.
 
 
 ### 3. Intentions
@@ -86,52 +86,55 @@ The fast and growing diffusion of AI Entities in every sector of our daily lives
 
 For historical reasons, existing open source or free software licenses ignore these factors, exposing human authors, and the overall development community, to potential unknown, unpredictable and unwanted risks.
 
-The purpose of this license is to ensure an empowering freedom, a "rail", to developers and stakeholders over the use of their conventional software by autonomous and cognitive AI Entities. This will allow the development community to keep driving innovation and flourishing, alongside the challenges raised by the advent of AI.
+The purpose of this license is to ensure an empowering freedom, to developers and stakeholders over the use of their conventional software by autonomous and cognitive AI Entities. This will allow the development community to keep driving innovation and flourishing, alongside the challenges raised by the advent of AI.
 
 
-### 3. Terms and Conditions
+### 4. Terms and Conditions
 
-Permission is granted, without charge, to any person acquiring a copy of this software and the associated documentation files (collectively, the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is provided to do so, subject to the following conditions:
+4.1. Permission is granted, without charge, to any person acquiring a copy of this software and the associated documentation files (collectively, the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is provided to do so, subject to the following conditions:
 
-All copies or significant portions of the Software must include the Rationale, Definitions, Intentions, and Terms and Conditions sections (including the Usage section).
+4.2. All copies or significant portions of the Software must include the Sections of this license.
 
-The application of the Artificial Intelligence Restrictions for Software (AIR-S) license prohibits the use, copying, modification, merging, publication, distribution, sublicensing of the Software by AI Entities, except when expressly permitted through the inclusion of additional information in the license metadata, as detailed in Section 4.1 of this license.
+4.3. The application of the Artificial Intelligence Restrictions for Software (AIR-S) license prohibits the use, copying, modification, merging, publication, distribution, sublicensing of the Software by AI Entities, except when expressly permitted through the inclusion of additional information in the license metadata, as detailed in Section 5.1 of this license.
 
-When permission is granted for the use of the Software by specific AI Entities, such permission applies solely to the expressly designated AI Entities and does not extend to any other AI Entity, even if they are similar or related to the specified AI Entities.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+4.4. When permission is granted for the use of the Software by specific AI Entities, such permission applies solely to the expressly designated AI Entities and does not extend to any other AI Entity, even if they are similar or related to the specified AI Entities.
 
 
-### 4. Usage
+### 5. Usage
 
 The "Artificial Intelligence Restrictions License for Software" can be applied as following:
 
 - Use “AIR-S” (or the full name) in in the relative “license” field of a software metadata file (e.g. `package.json`) or add a copy of this file in the software package.
 - Add extra information in the software metadata (e.g. `package.json`) or in the license metadata section on top of this file.
 
-4.1. License metadata
+5.1. License metadata
 
 To define extra information, the following fields are intended valid to be used:
 
-1. ALLOW: <name or list of names of AI Entities>
+- ALLOW: <name or list of names of AI Entities>
 Optional, accepts a descriptive list of allowed AI Entities. For example "Example AI Assistant".
 This shall enable the use of the software by the allowed AI Entities. 
 In absence of extra allowed information, the software will be fully usable without restrictions of version, source or commercial purposes.
 
-2. ALLOW ONLY PARTIAL: <yes>
+- ALLOW ONLY PARTIAL: <yes>
 Optional, only valid in combination with ALLOW.
 When set to "yes" this term limits the use of the Software's source code by allowed AI Entities to partial access. This means that AI Entities can use predefined code snippets for reference and must redirect users to the official author or documentation for the complete source code. The default value is "yes."
 
-3. ALLOW VERSION(s): <allowed version(s)>
+- ALLOW VERSION(s): <allowed version(s)>
 Optional, only valid in combination with ALLOW.
 This term specifies the allowed version(s) of the Software that the AI Entities can use. It accepts semantic versioning definitions (https://semver.org/).
 
-4. ALLOW ONLY RESEARCH: <yes>
+- ALLOW ONLY RESEARCH: <yes>
 Optional, only valid in combination with ALLOW.
 When set to "yes" this term restricts the use of the Software by allowed AI Entities to non-commercial research and development (R&D) purposes only.
 
-5. ALLOW WITH CREDITS: <yes>
+- ALLOW WITH CREDITS: <yes>
 Optional, only valid in combination with ALLOW.
 When set to "yes" this term permits the use of the Software by allowed AI Entities only if they will provide credits to the author.
 
 For questions or concerns about the Artificial Intelligence Restrictions License for Software, please contact the copyright holder(s) listed at the beginning of this file or refer to the guidelines provided in the original license.
+
+
+### 6. Warranty and Liability
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
