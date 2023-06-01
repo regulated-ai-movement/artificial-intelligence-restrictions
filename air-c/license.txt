@@ -1,0 +1,142 @@
+Artificial Intelligence Restrictions for Creatives (AIR-C)
+Author(s): Emanuele De Boni, Regulated AI Movement (https://raimovement.org)
+Year: 2023
+
+## License
+
+### 1. Rationale
+
+To correctly interpret the content of this license, it is important to clarify some meanings and concepts, or at least how they are used as foundation of this corpus.
+
+
+1.1. AI Source Code, AI Systems and AI Entities
+
+A necessary distinction between "AI Source Code", "AI System" and "AI Entity" has to be made, since the terminology can vary among researchers and practitioners. The section "Definitions" (2) of this license defines how those terms are intended hereby.
+
+The distinction helps to split the static AI Source Code (and infrastructure) from the dynamic, interactive, and evolving nature of AI Entities. To simplify with an informative parallelism:
+
+- the AI Source Code is the AI’s DNA;
+- an AI System is the AI’s body, mind and knowledge;
+- an AI Entity is the whole AI’s being, operating through the environment.
+
+
+1.2. AI Entities vs Conventional Software
+
+As previously mentioned, AI Entities leverage their systems to resemble human intelligence. Therefore, contrary to conventional software, which adheres to deterministic algorithms and explicit instructions, AI Entities can learn, adapt, and perform complex tasks "autonomously" and with "non-deterministic" patterns. In other words the same inputs don’t necessarily give the same outputs.
+
+Overall, the key differentiators between AI Entities and conventional software can be resumed as following:
+
+a) Machine Learning: AI Entities employ statistical methods and algorithms to learn from data, refining performance iteratively "without human intervention". Traditional software necessitates manual updates for incorporating new information.
+b) Decision-making: AI Entities leverage pattern recognition and probabilistic reasoning (weights) to make decisions or predictions, whereas conventional software relies on deterministic, rule-based algorithms.
+c) Natural Language Processing: AI Entities can be able to process and interpret unstructured human language, facilitating more intuitive user interactions, while traditional software necessitates structured input.
+d) Computer Vision: AI Entities can be able to analyze and interpret visual data, develop context-aware perception, while conventional software is limited to structured, numerical data processing.
+
+In essence, AI's distinctive features lie in its capacity to learn, adapt, and mimic human-like cognitive abilities, setting it apart from conventional software with predetermined functionality.
+
+
+1.3. AI Entities, humans and accountability
+
+Even in early stages, AI Entities might become useful technological allies, as well as alternative competitors of humans, around a more or less wide variety of tasks, from narrowed activities (i.g. specialized content creation) to general purpose ones. 
+
+AI Entities, functioning as "authors", have the capability for autonomous decision-making that is reminiscent of human behavior. This can lead to "non-deterministic" and "unpredictable" results, raising issues regarding "accountability".
+
+Among others, the simplest scenario where a type of content is unpredicatably used by AI Entities for criminal purposes can be deeply concerning, and while that’s also true for humans, they respond to structured, even if often imperfect, "social contracts" and "legal systems" across the globe.
+
+On the contrary, AI Entities play without relevant boundaries, and nonetheless, it’s reasonable to assume that will be always a matter hard to tackle, at legal and ethical level, as the technology progresses exponentially.
+
+
+1.4. The Creative Communities
+
+It’s useful to highlight that all existing licenses are born by a “Social Contract” with their relative communities, where humans, members of those groups (or "societies"), are the very end contractors. Some references to this argument can be found directly in most of the licenses' content, around the use of terms like “persons” or “groups of persons” or adjective related to human individuals.
+
+Even considering a future evolution, AI Entities shall not be confused as the actual human members of those communities. They might be applied to assist with the human creation process, but they also could negatively disrupt it, for their before mentioned mix of characteristics (intelligence, autonomy and unpredictability) together their lack (or hard to define) of legal accountability (see 1.3).
+
+
+### 2. Definitions
+
+- "AI" shall mean Artificial Intelligence by common knowledge, or the ability of a machine to imitate intelligent human behavior. This includes also the wider concept of Artificial General Intelligence (AGI).
+- "Software" shall mean conventional software, or standard software, intended as a structured collection of digital instructions, data, and routines, created by human programmers, that are executed by computers or digital devices to perform specific tasks or functions. Conventional software follows a predetermined set of rules and processes, without the capacity for learning, adaptation, or independent decision-making.
+- "AI Source Code" shall refer to the underlying programming instructions, algorithms, and data structures that define the behavior and functionality of an AI System. AI Source Code is typically written in a programming language and includes components such as machine learning algorithms, neural network architectures, and other techniques that enable the AI System to learn and perform tasks. Practically speaking, AI Source Code can be considered as conventional software.
+- "AI System" or "AI Systems" shall be intended to represent the broader framework of hardware, AI Source Code, static models, and static data that together enable the operational manifestation of AI Entities. AI Systems can be applied to a wide range of domains, such as natural language processing, computer vision, robotics, and decision-making.
+- "AI Entity" or "AI Entities" shall be understood as the operational manifestation of an AI System that interacts with its environment, users, or other systems. AI Entities are the active agents, exhibiting intelligent behaviour, result of an operating AI System processing data, making decisions, or performing actions, autonomously.
+- The terms "Person", "Persons", "You", "Creative", "Creatives", "Anyone", and "Creator" shall refer to an individual or a group of individuals exercising the rights granted under this license.
+- "Work" refers to the copyrighted material subject to this license.
+- "Human creation process" refers to the process of creating the Work from a human entity, a person, including but not limited to the following activities: ideation, design, development, testing, deployment, and maintenance.
+- "Creative Communities" or "Creative Groups" shall mean the communities of Persons, or groups of Persons, that are involved in the creation process of the Work. This might include, but not limited to, the following: designers, writers, photographers, musicians, painters, researchers, video makers, and so on.
+- "Human to human context" shall mean the context where the Work is used, shared, or adapted by Persons, or groups of Persons, in a human to human relationship, excluding any AI Entity.
+- The "Use" of the Work shall mean any kind of activity about the Work including, but not limited to, share, reproduction, modification, distribution, public display, public performance, or other exploitation of the Work in any context, human or AI related. In the latter case, the "Use" shall refer to any task performed by and for Artificial Intelligence technology, including but not limited to, training, processing, testing, validation, deployment, and maintenance.
+
+
+### 3. Intentions
+
+The fast and growing diffusion of AI Entities in every sector of our daily lives, might drive a negative disruption to creative communities, require a deeper sense of responsibility from it, or just cause a need for more control.
+
+AI Entities should be considered as active agents or alternative individuals of such communities, but they can’t belong to them by nature.
+
+For historical reasons, existing licenses for Creatives ignore these factors, exposing human authors, and the relative communities, to potential unknown, unpredictable and unwanted risks.
+
+The purpose of this license is to ensure an empowering freedom, protecting human Creatives over the use of their Work by autonomous and cognitive AI Entities. This will allow the creative communities to keep driving innovation, ideas,  and flourishing, alongside the challenges raised by the advent of AI.
+
+
+### 4. Rights
+
+Subject to the terms and conditions of this Artificial Intelligence Restrictions for Creatives (AIR-C) License, You are hereby granted of the following rights, in a human to human context:
+
+a) You have the freedom to use and share the Work under this license, worldwide.
+b) You can also create, use and share content that's been adapted from the Work.
+c) This license's duration is specified in another section (Section 6).
+d) You're allowed to use the Work in all types of media, even ones that haven't been invented yet. You can also make necessary technical changes.
+e) Anyone who receives the Work from You also gets the rights to use the Work under this license.
+f) You haven't the right of adding restrictions that would limit human being from using the Work under this license.
+g) Using this Work doesn't mean You're endorsed by or officially connected with the original creator.
+h) This license doesn't give You certain rights, like moral rights (like the right to have the Work presented correctly), publicity rights, privacy rights, patent rights, and trademark rights. The original creator won't enforce these rights to prevent You from using the Work under this license, but these rights still exist.
+i) The original creator isn't going to ask You for royalties (money for using the work) if You're using the work under this license, unless there's a mandatory law saying they can collect these royalties.
+
+
+### 5. Terms and Conditions
+
+5.1. The application of the Artificial Intelligence Restrictions for Creatives (AIR-C) to any Work under this license prohibits the use of the Work by AI Entities, unless explicitly stated otherwise by the creator.
+
+5.2. The application of the Artificial Intelligence Restrictions for Creatives (AIR-C) to any Work subject of this license defines these logical levels of accountability:
+
+a) If the user of the Work is a human being found responsible and aware for any violation of this license, the user is legally accountable for the violation.
+b) If a software (including but not limited to bots and scrapers) or an AI Entity, found to be responsible for any violation of this license, the closest human author of that software or AI Entity will be held legally accountable for the violation.
+c) If the user of the Work is a human being found responsible and unaware for the violations of this license, for example using a software that leverages AI technologies and causing a violation of this license, the closest human author reponsible of that software or AI Entity is legally accountable for the violation (5.2(b)). The user will still loose the rights granted by this license, for negligence.
+
+5.3. The use of the Work under this license from human creators is allowed in conjunction with the application of the following rules:
+
+a) You must give Attribution. When You share the licensed material (even if You've changed it), You must keep and display any of the following details, if provided by the creator:
+- The name of the creator and anyone else who should receive credit, as they've asked to be identified.
+- A copyright notice.
+- A notice mentioning this license.
+- A notice mentioning that there are no warranties.
+- A link to the licensed material, if possible.
+b) You must track changes. If You've changed the licensed material, and track the changes that were made. State that the material is licensed under this license, and provide the text or a link to it.
+c) You can meet these conditions in any way that makes sense, depending on how and where You're sharing the licensed material. For example, You could provide a link to a webpage that contains all the required information.
+d) If the creator asks, You must remove any of the information listed above, if it's reasonably possible to do so.
+e) If You share material that You've adapted, the license You apply to your adapted material can't stop others from following this license.
+f) If a part of this license can't be enforced legally, it'll be changed as little as necessary to make it enforceable. If it can't be changed, it'll be removed from the license without affecting the rest of the license.
+g) No parts of this license will be ignored or violated with the creator's consent, unless they explicitly agree to it.
+h) This license doesn't limit or waive any legal rights or protections that the creator or You might have, if this doesn't involve AI Entities. It shouldn't be interpreted that way.
+i) Any modifications or additions to this license, including any supplementary agreements with the creator, that aim to permit the use of the Work by AI Entities, will be considered as a violation of this license.
+
+
+### 6. Duration
+
+a) This license lasts for as long as the copyright does. But if You don't follow the Terms and Conditions of this license (Section 5), You lose your rights under it automatically.
+b) If You lose your rights because You violated the Terms and Conditions:
+- Your rights can be restored automatically if You fix the problem within 30 days of discovering it. In the case of unaware violation, You shall provide a proof of your committment to fix the problem within 30 days of discovering it.
+- Your rights can also be restored if the creator explicitly says so, always in respect of Section 5.
+c) Even if your rights get restored, the creator can still take action against You for breaking the rules.
+d) The creator can offer the material under different rules or stop offering the material. Doing so won't end this license.
+e) The creator doesn't have to follow any extra or different rules that You communicate, unless they explicitly agree to them. Any other agreements about the licensed material that aren't mentioned here are separate from this license.
+f) Even if the license ends, Sections 1, 2, 3, 6, and 7 still apply.
+
+
+### 7. Warranty and Liability
+
+Unless expressly stated by the creator, the licensed material is provided "AS IS" and "WITHOUT WARRANTIES". No assurances are given about the material, its quality, or its adherence to copyright laws, and no claims of any type can be made regarding the contents of the licensed material.
+
+As far as is legally possible, the creator won't be responsible for any kind of losses or damages You might experience from using the licensed material. This applies no matter how the loss or damage came about, and even if the creator knew it could happen.
+
+These statements of "no Warranty and Liability" for any losses or damages should be understood to be as absolute as possible.
